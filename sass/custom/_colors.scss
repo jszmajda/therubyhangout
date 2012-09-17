@@ -22,25 +22,25 @@ $c5: #66201E;
 $page-bg: darken($c3, 30);
 $header-bg: darken($c5, 2);
 $title-color: $c1;
-$subtitle-color: darken($title-color, 30);
+$subtitle-color: darken($title-color, 20);
 
-$nav-bg: $c4;
+$nav-bg: desaturate(lighten($c4, 60), 60);
 $footer-bg: $nav-bg;
 $main-bg: $c1;
 
-$sidebar-bg: desaturate(darken($main-bg, 10), 70);
+$sidebar-bg: desaturate(darken($main-bg, 05), 95);
 
 
 
 //$nav-bg: desaturate(lighten(#bc0100, 48), 50);
 //$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
+$nav-bg-back: linear-gradient(lighten($nav-bg, 2), $nav-bg, darken($nav-bg, 6));
 //$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);
 //$sidebar-link-color-hover: darken(#7ab662, 9);
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$footer-bg-back: linear-gradient(lighten($footer-bg, 2), $footer-bg, darken($footer-bg, 6));
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */
