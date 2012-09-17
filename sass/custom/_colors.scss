@@ -13,16 +13,22 @@ $c4: $the_faust_mix;
 $ruby: #7a3831;
 $c5: $ruby;
 
-$page-bg: darken($c4, 10);
-$header-bg: $c4;
+$c1: #FFFCFC;
+$c2: #9A9A9A;
+$c3: #616161;
+$c4: #8E0F18;
+$c5: #66201E;
+
+$page-bg: darken($c3, 30);
+$header-bg: darken($c5, 2);
 $title-color: $c1;
 $subtitle-color: darken($title-color, 30);
 
-$nav-bg: $c2;
+$nav-bg: $c4;
 $footer-bg: $nav-bg;
 $main-bg: $c1;
 
-$sidebar-bg: desaturate(darken($main-bg, 10), 30);
+$sidebar-bg: desaturate(darken($main-bg, 10), 70);
 
 
 
