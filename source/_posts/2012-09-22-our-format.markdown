@@ -14,7 +14,7 @@ for future hangouts.
 hangouts after for beers and chat, G+ comments to keep the conversation
 going.</small>
 
-### Enabling Technology: Google +
+### Enabling Technology: Google+
 
 Standard Google+ Hangouts allow up to 10 people to hangout, but recently
 Google has added [broadcast capabilities via YouTube][1] so any number
@@ -46,6 +46,9 @@ community members. The organizers will try and keep a list of active
 hangouts so people can move around, getting to know as many people as
 they like.
 
+We also have started a Google Group, [The Ruby Hangout][3]. Forums and
+email lists are a familiar tool to build community.
+
 ### Afterward
 
 The recording of the hangout will be available on YouTube for anyone to
@@ -56,8 +59,8 @@ with both our presenters and the community at large and make people
 across the world feel welcome. Some ideas we're thinking about are
 collecting comments and forwarding them to our presenters up to 24 hours
 after the meetup, or simply asking our presenters to respond to comments
-on the meetup in our Google+ stream. We could really use more ideas
-around this, what are your thoughts?
+on the meetup in our Google+ stream or Google Group. We could really use
+more ideas around this, what are your thoughts?
 
 ### The Future
 
@@ -72,3 +75,4 @@ the comments!
 
 [1]: http://www.google.com/+/learnmore/hangouts/onair.html
 [2]: mailto:info@therubyhangout.com
+[3]: https://groups.google.com/d/forum/ruby-hangout
