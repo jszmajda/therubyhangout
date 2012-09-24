@@ -11,8 +11,8 @@ Before we have our first meetup, I wanted to take a minute to let you
 know what the format will be like, and also some plans I have for future
 hangouts.
 
-<small>**TL;DR**: [G+ hangout broadcast to YouTube][1], small G+
-hangouts after for beers and chat, G+ comments to keep the conversation
+<small>**TL;DR**: [G+ Hangout broadcast to YouTube][1], small G+
+Hangouts after for beers and chat, Google Groups to keep the conversation
 going.</small>
 
 ### Enabling Technology: Google+ Hangouts On Air
@@ -22,17 +22,17 @@ recently Google has added [broadcast capabilities via YouTube][1] so any
 number of people can watch the hangout live. We plan for the "main"
 hangout to have our hosts, presenters, and a few moderators or special
 guests. The rest of the community will be engaged through YouTube. Our
-moderators will be promoting comments from YouTube live into the
-hangout's text chat, where hosts or guests can read them and bring them
-up to our presenters. Our goal is to make everyone feel like they're
-part of the conversation.
+moderators will be selecting comments from YouTube live and copying them
+into the hangout's text chat, where hosts or guests can bring them up to
+our presenters. Our goal is to make everyone feel like part of the
+conversation.
 
 ### Our First Meetup
 
 Keeping that in mind, our format will be (for the first meetup at
 least), an introduction, announcements, two presentations each followed
-by questions, and then breaking out into smaller hangouts to bring
-the community together.
+by questions, and then break-outs into smaller hangouts to bring the
+community together.
 
 ### Building a Real Community
 
@@ -49,25 +49,25 @@ hangouts so people can move around, getting to know as many people as
 they like.
 
 We also have started a Google Group, [The Ruby Hangout][3]. Forums and
-email lists are a familiar tool to build community.
+email lists are familiar tools to build community.
 
-### Afterward
+### Continuing the Conversation
 
 The recording of the hangout will be available on YouTube for anyone to
 watch. One of the problems we're foreseeing is that we'll be recording
 at 7pm Eastern time, which isn't necessarily convenient for people
 around the world. We're considering ways to continue the conversation
 with both our presenters and the community at large, making everyone
-feel welcome. Some ideas we're thinking about are collecting comments
-and forwarding them to our presenters up to 24 hours after the meetup,
-or simply asking our presenters to respond to comments on the meetup in
-our Google+ stream or Google Group. We could really use more ideas
-around this, what are your thoughts?
+feel welcome. Some ideas are collecting comments and forwarding them to
+our presenters up to 24 hours after the meetup or simply asking our
+presenters to respond to comments on the meetup in our Google+ stream or
+Google Group. We could use more ideas around this, what are your
+thoughts?
 
 ### The Future
 
 We're looking for presenters and great presentations. The core of our
-community is knowledge sharing, so if you have anything you'd like to
+community is sharing knowledge, so if you have anything you'd like to
 share, please [let us know][2]. 
 
 One idea we've had is to have short "ruby newbie" intro presentations.
