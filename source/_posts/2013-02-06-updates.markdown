@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Updates!"
+date: 2013-02-06 09:45
+comments: true
+author: Josh Szmajda
+categories: Meetups
+---
+
+Tonight's (5th!) hangout will be with [Avdi Grimm][1], join us at 7pm
+Eastern for a wide mass-pairing session about rogue tapas!
+
+I've been pretty bad about updating the website, but we're still going
+strong! For easy access, here are all our hangouts to date:
+
+[Hangout 1: Chad Fowler and Evan Light][2]
+[Hangout 2: Jeff Casimir][3]
+[Hangout 3: Charles Nutter][4]
+[Hangout 4: Teaching Kids Ruby Rountable][5] with [Alberto Morales][6], [Bill Davenport][7], [Rich Kilmer][8], and [Ron Evans][9]
+
+We've moved into more of a one-person-at-a-time format, and I think
+it's working well. We'd love to hear your thoughts!
+
+[1]: http://about.avdi.org/
+[2]: http://www.youtube.com/watch?v=qPNPovbvdGE
+[3]: http://www.youtube.com/watch?v=dLn6eWCjIuc
+[4]: http://www.youtube.com/watch?v=SmBDBDRX-jg
+[5]: http://www.youtube.com/watch?v=buSvbMDIHJg
+[6]: http://ruby4kids.com/ruby4kids
+[7]: http://twitter.com/wpdavenport
+[8]: http://twitter.com/rich_kilmer
+[9]: http://twitter.com/deadprogram
