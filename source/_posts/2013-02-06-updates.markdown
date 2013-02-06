@@ -13,10 +13,10 @@ Eastern for a wide mass-pairing session about rogue tapas!
 I've been pretty bad about updating the website, but we're still going
 strong! For easy access, here are all our hangouts to date:
 
-[Hangout 1: Chad Fowler and Evan Light][2]
-[Hangout 2: Jeff Casimir][3]
-[Hangout 3: Charles Nutter][4]
-[Hangout 4: Teaching Kids Ruby Rountable][5] with [Alberto Morales][6], [Bill Davenport][7], [Rich Kilmer][8], and [Ron Evans][9]
+* [Hangout 1: Chad Fowler and Evan Light][2]
+* [Hangout 2: Jeff Casimir][3]
+* [Hangout 3: Charles Nutter][4]
+* [Hangout 4: Teaching Kids Ruby Rountable][5] with [Alberto Morales][6], [Bill Davenport][7], [Rich Kilmer][8], and [Ron Evans][9]
 
 We've moved into more of a one-person-at-a-time format, and I think
 it's working well. We'd love to hear your thoughts!
