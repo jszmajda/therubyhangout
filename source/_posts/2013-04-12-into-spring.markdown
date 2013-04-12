@@ -13,15 +13,16 @@ had a chance, please check them out.
 
 Here's a full list of our hangouts to date:
 
-[2012-10-03 Ruby Hangout 1 with Chad Fowler and Evan Light][1]
-[2012-11-07 Ruby Hangout 2 with Jeff Casimir][2]
-[2012-12-05 Ruby Hangout 3 with Charles Nutter][3]
-[2013-01-02 Ruby Hangout 4 Teaching Kids Ruby Roundtable][4]
-[2013-02-06 Ruby Hangout 5 with Avdi Grimm][5] (and [part 2][8], yay crashes)
-[2013-03-06 Ruby Hangout 6 with Noah Gibbs][6]
-[2013-04-03 Ruby Hangout 7 with Aaron Kalin and Nathen Harvey][7] (and [part 2][9], yaaay crashes!)
+* [2012-10-03 Ruby Hangout 1 with Chad Fowler and Evan Light][1]
+* [2012-11-07 Ruby Hangout 2 with Jeff Casimir][2]
+* [2012-12-05 Ruby Hangout 3 with Charles Nutter][3]
+* [2013-01-02 Ruby Hangout 4 Teaching Kids Ruby Roundtable][4]
+* [2013-02-06 Ruby Hangout 5 with Avdi Grimm][5] (and [part 2][8], yay crashes)
+* [2013-03-06 Ruby Hangout 6 with Noah Gibbs][6]
+* [2013-04-03 Ruby Hangout 7 with Aaron Kalin and Nathen Harvey][7] (and [part 2][9], yaaay crashes!)
 
 Coming up we have:
+
 * on May 1st, [John Athayde][10], co-author of [The Rails View][11], and
 * on June 5th, [Brian Cardarella][12] from [Dockyard][13] talking about their gems and [Ember.js][14]
 
