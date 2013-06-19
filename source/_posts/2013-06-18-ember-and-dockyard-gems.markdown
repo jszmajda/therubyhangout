@@ -18,7 +18,7 @@ Brian discussed the following gems:
 * [PartyFoul] - Alternative to airbrake that allows you to use github to track your errors.
 * [ContextValidations] - Context validations for rails.
 
-Brian gave an excellent talk on the history of [Ember.js], the benefits of using it and how it is being used. For those looking at using it, it was pointed out that [Discourse] is the current post child for Ember with benefit of the Discourse people discussing their Ember thoughts on their [blog]. Brian also provided some excellent resources for learning Ember such as [Ember guides] and the [EmberCasts] and [Ember101] screencasts for video learning. This only scratches the surface of the talk, everything from forms to json to hateos was discussed with a great quote from Yehuda thrown in there too. It is definitely worth watching.
+Brian also gave an excellent talk on the history of [Ember.js], the benefits of using it and how it is being used. For those considering using it, it was pointed out that [Discourse] is the current post child for Ember. Brian also provided some excellent resources for learning Ember such as the [Ember guides] as well as the [EmberCasts] and [Ember101] screencasts for video learning. This only scratches the surface of the talk, everything from forms to json to hateos was discussed with a great quote from Yehuda thrown in there too. It is definitely worth watching.
 
 Next month we have [Aaron Patterson] who is on both the Ruby and Rails core team and sure to amaze us.
 
