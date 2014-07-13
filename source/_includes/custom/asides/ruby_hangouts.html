@@ -1,8 +1,7 @@
 <section>
   <h1>Past Hangouts</h1>
   <ul id="past_hangouts">
-    {% for e in hangouts %}
-      hangout {{ e }}
+    {% for e in site.hangouts %}
       <li class="hangout">
         <a href="{{e.url}}">{{e.title}}</a>
       </li>
