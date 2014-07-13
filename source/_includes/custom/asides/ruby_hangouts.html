@@ -1,0 +1,11 @@
+<section>
+  <h1>Past Hangouts</h1>
+  <ul id="past_hangouts">
+    {% for e in hangouts %}
+      hangout {{ e }}
+      <li class="hangout">
+        <a href="{{e.url}}">{{e.title}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
