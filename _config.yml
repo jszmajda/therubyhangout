@@ -115,12 +115,107 @@ facebook_like: true
 
 hangouts:
   -
-    url: https://www.youtube.com/watch?v=qPNPovbvdGE
-    title: Ruby Hangout with Chad Fowler and Evan Light
-    thumb: https://i1.ytimg.com/vi/qPNPovbvdGE/mqdefault.jpg
-    date: 2012-10-03
+    url: https://www.youtube.com/watch?v=hd7WG8d0l_I
+    title: Ruby Hangout with Ernie Miller
+    thumb: https://i1.ytimg.com/vi/hd7WG8d0l_I/mqdefault.jpg
+    date: 2014-07-02
+  -
+    url: https://www.youtube.com/watch?v=ZxyLSTcWcmU
+    title: Ruby Hangout with Greg Tarnoff
+    thumb: https://i1.ytimg.com/vi/ZxyLSTcWcmU/mqdefault.jpg
+    date: 2014-06-05
+  -
+    url: https://www.youtube.com/watch?v=-wWo6rhYupQ
+    title: Ruby Hangout with Ashish Dixit - Crafting your own Onboarding Experience
+    thumb: https://i1.ytimg.com/vi/-wWo6rhYupQ/mqdefault.jpg
+    date: 2014-04-02
+  -
+    url: https://www.youtube.com/watch?v=S4HqTYdIm9A
+    title: Ruby Hangout with David Bock 2014-02-05
+    thumb: https://i1.ytimg.com/vi/S4HqTYdIm9A/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=8p7-iHeQnQQ
+    title: Ruby Hangout 1/8 with Mark Bates
+    thumb: https://i1.ytimg.com/vi/8p7-iHeQnQQ/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=Je93NcgZo7U
+    title: "Ruby Hangout 11/5/2013: Diversity Roundtable"
+    thumb: https://i1.ytimg.com/vi/Je93NcgZo7U/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=JXJy0Vb0iss
+    title: Ruby Hangout Community Fun Edition
+    thumb: https://i1.ytimg.com/vi/JXJy0Vb0iss/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=wY3GFoSdQoI
+    title: Ruby Hangout with Zachary Scott and Steve Klabnik - Sept 4th 2013
+    thumb: https://i1.ytimg.com/vi/wY3GFoSdQoI/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=mX1bYZshEwU
+    title: Ruby Hangout with Jim Gay 8/7/13
+    thumb: https://i1.ytimg.com/vi/mX1bYZshEwU/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=fuiCtVchIW8
+    title: Ruby Hangout - Aaron Patterson - 7/10/2013
+    thumb: https://i1.ytimg.com/vi/fuiCtVchIW8/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=DvuMBtbACCw
+    title: Ruby Hangout 6/5/13 with Brian Cardarella
+    thumb: https://i1.ytimg.com/vi/DvuMBtbACCw/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=4-NDYWXcl98
+    title: Ruby Hangout with John Athayde on The Rails View 5-1-13
+    thumb: https://i1.ytimg.com/vi/4-NDYWXcl98/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=2yjJAStSNBY
+    title: Ruby Hangout 4/3 Part 2 with Nathen Harvey
+    thumb: https://i1.ytimg.com/vi/2yjJAStSNBY/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=eZngcRt_11k
+    title: Ruby Hangout 4/3/2013 with Aaron Kalin
+    thumb: https://i1.ytimg.com/vi/eZngcRt_11k/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=evDJMLb1d28
+    title: Ruby Hangout 3-13 Noah Gibbs
+    thumb: https://i1.ytimg.com/vi/evDJMLb1d28/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=OlKJZIrTaDY
+    title: Ruby Hangout - Feb 6th, 2013 Part 2/2  with Avdi Grimm
+    thumb: https://i1.ytimg.com/vi/OlKJZIrTaDY/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=K5w6yo6ahJY
+    title: Ruby Hangout - Feb 6th, 2013 Part 1/2 with Avdi Grimm
+    thumb: https://i1.ytimg.com/vi/K5w6yo6ahJY/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=buSvbMDIHJg
+    title: Fourth Ruby Hangout 1/2/2012 - Kids Ruby!
+    thumb: https://i1.ytimg.com/vi/buSvbMDIHJg/mqdefault.jpg
+    date: 2010-01-01
+  -
+    url: https://www.youtube.com/watch?v=SmBDBDRX-jg
+    title: Third Ruby Hangout 12/5 with Charles Nutter
+    thumb: https://i1.ytimg.com/vi/SmBDBDRX-jg/mqdefault.jpg
+    date: 2010-01-01
   -
     url: https://www.youtube.com/watch?v=dLn6eWCjIuc
     title: Ruby Hangout Nov 7th with Jeff Casimir
     thumb: https://i1.ytimg.com/vi/dLn6eWCjIuc/mqdefault.jpg
     date: 2012-11-07
+  -
+    url: https://www.youtube.com/watch?v=qPNPovbvdGE
+    title: Ruby Hangout with Chad Fowler and Evan Light
+    thumb: https://i1.ytimg.com/vi/qPNPovbvdGE/mqdefault.jpg
+    date: 2012-10-03
